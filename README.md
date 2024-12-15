@@ -124,8 +124,8 @@ Client.setup(config);
   }
 })();
 ```
-## Some recommended practices:
+## Recommended Practices
 
 - Use a dedicated Linux machine that will only be used for publishing, signing and updating the UNL
 - Paper backup only (no digital backup) at maybe two places, or split between 6 trusted people
-- In case of an emergency (loss, leak, etc), notify validators/stakeholders immeditately
+- In case of an emergency (loss, leak, etc), notify validators/stakeholders immediately
