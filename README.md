@@ -16,7 +16,7 @@ $ npm install --save @bithomp/xrpl-api
 
 ## Generate Keys
 
-Generate two sets of keys, to use for validator secrets, and to use for signing secrets.
+Generate two sets of keys, one for validator secrets, and another for signing secrets.
 
 ```JS
 const { Validator } = require("@bithomp/xrpl-api");
