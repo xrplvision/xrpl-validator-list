@@ -58,7 +58,7 @@ BithompXRPL.Client.disconnect();
 
 ## Generate Keys
 
-Generate two sets of keys.
+Generate two sets of keys, to use for validator secrets, and to use for signing secrets.
 
 ```JS
 const { Validator } = require("@bithomp/xrpl-api");
